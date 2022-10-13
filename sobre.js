@@ -33,5 +33,6 @@ ReactDOM.render(
   document.getElementById("linha7")
 );
 
+/*falta adicionar negrito, não consegui, tentei: bold, style, tag b, text + style*/
 
 
